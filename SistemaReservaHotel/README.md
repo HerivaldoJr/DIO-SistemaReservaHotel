@@ -21,4 +21,4 @@ Sistema de gerenciamento de reservas para hotéis desenvolvido em C# como parte 
 
 ## Requisitos
 
-- .NET 8.0 SDK
+- .NET 9.0 SDK
