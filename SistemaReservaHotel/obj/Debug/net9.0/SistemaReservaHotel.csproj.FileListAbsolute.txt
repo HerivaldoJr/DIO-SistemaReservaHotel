@@ -1,0 +1,42 @@
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.exe
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.deps.json
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.runtimeconfig.json
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.pdb
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.AssemblyInfo.cs
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\refint\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.pdb
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.genruntimeconfig.cache
+C:\Users\usuario\Documents\D.I.O.PROJETOS\Nova pasta\SistemaReservaHotel\obj\Debug\net9.0\ref\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.exe
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.deps.json
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.runtimeconfig.json
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.pdb
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.AssemblyInfo.cs
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\refint\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.pdb
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.genruntimeconfig.cache
+C:\Users\usuario\Documents\D.I.O.PROJETOS\SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\ref\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.exe
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.deps.json
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.runtimeconfig.json
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\bin\Debug\net9.0\SistemaReservaHotel.pdb
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.AssemblyInfo.cs
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\refint\SistemaReservaHotel.dll
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.pdb
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\SistemaReservaHotel.genruntimeconfig.cache
+C:\Users\usuario\Documents\GitHub\DIO-SistemaReservaHotel\SistemaReservaHotel\obj\Debug\net9.0\ref\SistemaReservaHotel.dll
